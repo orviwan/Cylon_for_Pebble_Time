@@ -1,0 +1,136 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Orviwan",
+    "longName": "Cylon",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/frame_21.png",
+                "name": "IMAGE_21",
+                "type": "png"
+            },
+            {
+                "file": "images/frame_20.png",
+                "name": "IMAGE_20",
+                "type": "png"
+            },
+            {
+                "file": "images/frame_19.png",
+                "name": "IMAGE_19",
+                "type": "png"
+            },
+            {
+                "file": "images/frame_18.png",
+                "name": "IMAGE_18",
+                "type": "png"
+            },
+            {
+                "file": "images/frame_17.png",
+                "name": "IMAGE_17",
+                "type": "png"
+            },
+            {
+                "file": "images/frame_16.png",
+                "name": "IMAGE_16",
+                "type": "png"
+            },
+            {
+                "file": "images/frame_15.png",
+                "name": "IMAGE_15",
+                "type": "png"
+            },
+            {
+                "file": "images/frame_14.png",
+                "name": "IMAGE_14",
+                "type": "png"
+            },
+            {
+                "file": "images/frame_13.png",
+                "name": "IMAGE_13",
+                "type": "png"
+            },
+            {
+                "file": "images/frame_12.png",
+                "name": "IMAGE_12",
+                "type": "png"
+            },
+            {
+                "file": "images/frame_11.png",
+                "name": "IMAGE_11",
+                "type": "png"
+            },
+            {
+                "file": "images/frame_10.png",
+                "name": "IMAGE_10",
+                "type": "png"
+            },
+            {
+                "file": "images/frame_9.png",
+                "name": "IMAGE_09",
+                "type": "png"
+            },
+            {
+                "file": "images/frame_8.png",
+                "name": "IMAGE_08",
+                "type": "png"
+            },
+            {
+                "file": "images/frame_7.png",
+                "name": "IMAGE_07",
+                "type": "png"
+            },
+            {
+                "file": "images/frame_6.png",
+                "name": "IMAGE_06",
+                "type": "png"
+            },
+            {
+                "file": "images/frame_5.png",
+                "name": "IMAGE_05",
+                "type": "png"
+            },
+            {
+                "file": "images/frame_4.png",
+                "name": "IMAGE_04",
+                "type": "png"
+            },
+            {
+                "file": "images/frame_3.png",
+                "name": "IMAGE_03",
+                "type": "png"
+            },
+            {
+                "file": "images/frame_2.png",
+                "name": "IMAGE_02",
+                "type": "png"
+            },
+            {
+                "file": "images/frame_1.png",
+                "name": "IMAGE_01",
+                "type": "png"
+            },
+            {
+                "file": "images/frame_0.png",
+                "name": "IMAGE_00",
+                "type": "png"
+            },
+            {
+                "file": "images/cylon_bg.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Cylon",
+    "uuid": "2e3de572-b7ce-478e-808b-5935d32b9d17",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
